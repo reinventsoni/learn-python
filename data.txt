@@ -1,0 +1,6 @@
+Hi this is just a sample document. We will use this file to be read by Python Program
+We will then print each of the lines in this file using the Python Program
+This is Python Line # 3
+This is Line No #4 
+This is Line No #5
+This is Line No #6
